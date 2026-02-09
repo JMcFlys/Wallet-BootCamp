@@ -29,6 +29,7 @@ Aplicación web de **billetera digital** que permite simular operaciones básica
   - Saldo del usuario (`saldo`).
   - Contactos (`contactos`).
   - Movimientos (`movimientos`).
+  - IA para corregir codigo.
 
 ## Cómo ejecutar el proyecto
 
